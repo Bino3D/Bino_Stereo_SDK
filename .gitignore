@@ -1,0 +1,9 @@
+checkData/
+KeyFrameTrajectory.txt
+build/
+*~
+*.pcd
+*.swp
+*.jpg
+Debug/src/
+bin/
