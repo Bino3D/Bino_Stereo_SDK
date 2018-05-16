@@ -67,7 +67,7 @@ $ll /dev/video*
 $cd <sdk directory>
 $vim run_raw.sh
 ```
-<img src="https://github.com/Bino3D/Bino_Stereo_SDK/blob/master/editDevID.png"
+<img src="https://github.com/Bino3D/Bino_Stereo_SDK/tree/master/srv/editDevID.png"
 alt="修改设备id的位置" width="640" height="480" border="10" />
 
 ```
